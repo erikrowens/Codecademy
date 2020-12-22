@@ -1,1 +1,1 @@
-#NetFlix_CapstoneProject
+# Codecademy_NetFlix_CapstoneProject
